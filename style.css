@@ -1,0 +1,45 @@
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+}
+body{
+    font-size: 16px;
+    
+   
+    line-height: 1.5;
+}
+.wrap{
+    max-width: 1012px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+h1{
+    font-family: 'Metal Mania', cursive;
+    font-size: 3em;
+    border-bottom: 1px solid #c1bfea;
+    margin-bottom: 20px;
+    font-weight: 600;
+    line-height: 1.30;
+}
+.info-list{
+    list-style-type: none;
+    text-align: center;
+    font-size: 2em;
+}
+.info-list p{
+    margin: 0;
+    padding: 0;
+}
+.links a {
+    margin: 0 auto;
+    padding-right: 76px;
+}
+b{
+    font-weight: 600;
+}
