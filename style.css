@@ -5,8 +5,8 @@
 }
 body{
     font-size: 16px;
-    font-family: 'Calligraffitti', cursive;
-    font-family: 'Metal Mania', cursive;
+    
+   
     line-height: 1.5;
 }
 .wrap{
@@ -20,6 +20,7 @@ body{
     border-radius: 100%;
 }
 h1{
+    font-family: 'Metal Mania', cursive;
     font-size: 3em;
     border-bottom: 1px solid #c1bfea;
     margin-bottom: 20px;
@@ -29,7 +30,7 @@ h1{
 .info-list{
     list-style-type: none;
     text-align: center;
-    font size: 2em;
+    font-size: 2em;
 }
 .info-list p{
     margin: 0;
