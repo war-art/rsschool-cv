@@ -1,3 +1,2 @@
 # rsschool-cv
-(https://war-art.github.io/rsschool-cv/cv)
-https://war-art.github.io/rsschool-cv/
+https://war-art-cv-cross-check.netlify.app/
