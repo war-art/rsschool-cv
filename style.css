@@ -1,3 +1,196 @@
-.h1{
-    font-size: 15px;
+.bodyy{
+    background-color:beige;
+    max-width: 1280px;
+    margin: 0 auto;
+
+}
+.text{
+    padding: 5px 10px ;
+}
+.cv-name{ 
+    font-family: 'Roboto Mono', monospace;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 55px;
+    margin: 50px 219px;
+}    
+.my-picture{
+    border: 0px solid #ccc;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    padding: 0px 80px;
+} 
+.intro-table{ 
+    display: flex;
+    
+    text-align: justify;
+    padding: 0px 2px;
+
+}
+.intro{
+    line-height: 21px;
+    background-color: rgb(184, 168, 198);
+    text-align: left;
+    padding: 0px 2px;
+
+}
+.name{
+    font-size: 32px;
+    font-style: oblique;
+}
+.job{
+    font-size: 25px;
+    font-style: oblique;
+}
+.intro-text{
+    font-size: 20px;
+    font-style: italic;
+}
+.gmail{
+    height: 50px;
+    width: 50px;
+}
+.second-part{
+    margin: 70px 10px;
+}
+.gmail{
+    font-size: 28px;
+    font-weight: 400;
+    font-style: italic;
+    padding: 2px 5px;
+    display: flex;
+}
+.gmail-logo{
+    
+    width: 30px;
+    height: 30px;
+    padding: 1px 10px ;
+}
+.telegram-logo{
+    width: 30px;
+    height: 30px;
+    padding: 1px 10px;
+}
+.telegram{
+    font-size: 28px;
+    font-weight: 400;
+    font-style: italic;
+    padding: 2px 5px;
+    display: flex;
+}
+.address{
+    font-size: 28px;
+    font-weight: 400;
+    font-style: italic;
+    padding: 20px 5px;
+    display: flex;
+}
+.loc-logo{
+    width: 30px;
+    height: 30px;
+    padding: 1px 10px;
+}
+.second-part{
+    display: flex;
+}
+.contact-details{
+    display: flex;
+    align-items: center;
+    margin-top: 38px;
+}
+.title-work{
+    text-decoration: underline;
+    margin: 0px 200px;
+
+}
+.list1{
+    display: flex;
+    list-style: none;
+}
+.work-list{
+    font-size: 20px;
+    font-weight: 500;
+    padding: 1px 50px;
+    line-height: 20px;
+}
+.skills-title{
+    font-size: 45px;
+    text-align: center;
+    margin-top: 48px;
+    text-decoration: underline;
+    margin-top: 75px;
+}
+
+.skills-list{
+    color: rgb(255, 255, 255);
+    background-color:rgb(155, 153, 157);
+    text-align: center;
+    padding: 25px 0px ;
+    margin: 10px 0px;
+    width: 375px;
+    border: 2px solid #ccc;
+    border-radius: 10%;
+    border-color: rgb(167, 168, 168);
+    font-size: 28px;
+    animation: change-color duration 3s;
+    list-style-type: none;
+}
+.third-part{
+    display: flex;
+}
+.list2{
+    padding: 26px 27px;
+    margin: 0px 250px;
+    
+}
+.skill-list{
+   
+    font-size: 20px;
+    font-weight: 500;
+    padding: 1px 50px;
+    line-height: 12px;
+}
+.edu-title{
+    padding: 0px 50px;
+    font-size: 50px;
+    text-decoration: underline
+}
+.education-list{
+    font-size: 20px;
+    padding: 0px 40px;
+}
+li{
+    list-style-type: none;
+}
+.git-logo{
+    width: 100px;
+    height: 100px;
+    padding-left: 80px;
+    padding-right: 100px;
+}
+.rs-logo{
+    width: 100px;
+    height: 100px;
+    padding-right: 100px;
+}
+.last-chapter{
+    padding: 0px 0px ;
+}
+.navigation{
+    display: flex;
+    align-items: center;
+    padding: 0px 0px ;
+}
+@media (max-width: 1280px) {
+    .body{
+        max-width: 1024px;
+    }
+    
+}
+@media (max-width: 1024px) {
+    .body{
+        max-width: 768px;
+    }
+    
 }
