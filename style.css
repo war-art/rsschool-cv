@@ -17,7 +17,7 @@
 } 
 .intro-table{ 
     display: flex;
-    width: 1445px;
+    width: 1950px;
     text-align: justify;
     padding: 0px 2px;
 
@@ -41,4 +41,47 @@
     font-size: 20px;
     font-style: italic;
 }
-
+.gmail{
+    height: 50px;
+    width: 50px;
+}
+.second-part{
+    margin: 70px 10px;
+}
+.gmail{
+    font-size: 28px;
+    font-weight: 400;
+    font-style: italic;
+    padding: 2px 5px;
+    display: flex;
+}
+.gmail-logo{
+    
+    width: 30px;
+    height: 30px;
+    padding: 1px 10px ;
+}
+.telegram-logo{
+    width: 30px;
+    height: 30px;
+    padding: 1px 10px;
+}
+.telegram{
+    font-size: 28px;
+    font-weight: 400;
+    font-style: italic;
+    padding: 2px 5px;
+    display: flex;
+}
+.address{
+    font-size: 28px;
+    font-weight: 400;
+    font-style: italic;
+    padding: 20px 5px;
+    display: flex;
+}
+.loc-logo{
+    width: 30px;
+    height: 30px;
+    padding: 1px 10px;
+}
